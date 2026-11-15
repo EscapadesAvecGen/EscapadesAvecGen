@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 27.0//EN
+N:Nault;Genevieve;;;
+FN:Genevieve Nault
+ORG:Groupe Voyages Québec;EscapadesAvecGen
+TITLE:Guide-accompagnatrice
+EMAIL;type=INTERNET;type=WORK;type=pref:EscapadesAvecGen@hotmail.com
+TEL;type=CELL;type=VOICE;type=pref:(819) 239-4082
+item1.ADR;type=HOME;type=pref:;;;Sherbrooke;Québec;;Canada
+item1.X-ABADR:ca
+NOTE:Facebook personnel : gnault \nWhatsApp: +1 819-239-4082
+item2.URL;type=pref:https://facebook.com/EscapadesAvecGen
+item2.X-ABLabel:_$!<HomePage>!$_
+item3.URL:https://www.linkedin.com/in/gnault
+item3.X-ABLabel:_$!<HomePage>!$_
+item4.URL:https://gvq.ca/
+item4.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
